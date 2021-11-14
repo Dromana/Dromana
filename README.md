@@ -3,7 +3,7 @@
 - 👀 I’m interested in Hardware and Software Development (Arduinos&ESP3288&FPGA and Web stuff ) :)
 - 📫 You can reach me via Email and LinkedIn  
 <h3> Studies</h3>
-<p> Eletronics of computer and telecomunications at ISEL (Instituto Superior de Engenharia Lisboa) </p>
+<p> Eletronics of computers and telecomunications at ISEL (Instituto Superior de Engenharia Lisboa) </p>
 <h3>Working On</h3>
 <p> I am currently working on NOS SGPS Routers</p>
 <p> Developing their Routers Tests Framework </p>
