@@ -1,7 +1,8 @@
 <h1>👋 Hi, I’m Diogo Romana </h1>
 
 - 👀 I’m interested in Hardware and Software Development (Arduinos&ESP3288&FPGA and Web stuff ) :)
-- 📫 You can reach me via Email and LinkedIn  
+- 📫 You can reach me via Email and LinkedIn
+- Working as Automation Tester and python delveloper
 <h3> Studies</h3>
 <p> Eletronics of computers and telecomunications at ISEL (Instituto Superior de Engenharia Lisboa) </p>
 <!--- <h3>Working On</h3>
